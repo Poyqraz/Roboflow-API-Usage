@@ -27,3 +27,14 @@ Model id
 Api Url
 
   5) To access the api url, it will be enough to copy the web address (url) of your roboflow workspace.
+
+     # Thanks for the be here.
+
+# Sources
+
+1- https://inference.roboflow.com
+2- https://discuss.roboflow.com
+3- https://universe.roboflow.com
+4- https://universe.roboflow.com
+5- https://docs.roboflow.com/deploy/hosted-api/custom-models/object-detection
+
