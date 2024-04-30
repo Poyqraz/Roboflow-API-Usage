@@ -28,7 +28,9 @@ Api Url
 
   5) To access the api url, it will be enough to copy the web address (url) of your roboflow workspace.
 
-     # Thanks for the be here.
+I shared the python file required for API usage in the article content.
+
+     # Thanks For The Be Here.
 
 # Sources
 
